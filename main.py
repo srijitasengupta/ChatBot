@@ -4,8 +4,8 @@ import re
 import random
 import dbfunc
 
-aname=None
-bname=None
+#aname=None
+#bname=None
 
 def load_file(file):
     with open(file) as responses:
