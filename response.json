@@ -1,0 +1,14 @@
+{
+	"greet":["Hi! How can I help you?","Hello.Welcome to our site","Hello! Nice to meet you"],
+	"about_chatbot":["Hi,My name is Abc.I am here to help you","Hello from Abc,how can I help you?"],
+	"role":["I help people in understanding the functionality of our product website.I will also assist you!","I am here to help you answer your queries"],
+	"about_site":["We help people around the world to buy books of their choice."],
+	"site_functionality":["you can add books","do anything"],
+	"add_books":["Your book is already added to the wishlist"],
+	"view_books":[],
+	"buy_books":["Enter the name of the book you want to buy: (The format is buybook : ^...^)"],
+	"add_bookname":["Enter Author name: (The format is (authorname is: ^...^)"],
+	"add_authorname":["Your record is saved.Thank You!"],
+	"buy_bookname":[],
+	"default":["Try typing simething else.I couldn't understand","Sorry Didnot understand"]
+}
